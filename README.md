@@ -34,5 +34,5 @@ Nesse projeto foi utilizado apenas:
 <a id="ancora3"></a>
 ## :computer: Site
 Como o propósito do site foi por questões de estudo, hospedei o site no Netlify de forma gratuita, segue o Link:
-<a href="https://zen-meitner-08ea1e.netlify.app/" target="_blank" rel="noopener noreferrer"> AgraTalk! </a>
+<a href="https://zen-meitner-08ea1e.netlify.app/"> AgraTalk! </a>
 
