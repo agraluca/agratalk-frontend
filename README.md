@@ -1,6 +1,6 @@
 # AgraTalk! 
-	
- [Sobre](#ancora1) | [Tecnologias](#ancora2) | [Site](#ancora3)
+
+ [Sobre](#ancora1) | [Tecnologias](#ancora2) | [Site](#ancora3) 
 
 ![Computador com capa da rede social](https://github.com/agraluca/agratalk-frontend/blob/master/pc_agratalk.png)
 
@@ -16,6 +16,12 @@ O Projeto tem algumas funcionalidades interessantes, irei citar algumas:
 - Área do seu perfil, onde encontrará seus posts criados, seus seguidores e as pessoas que você segue.
 - Um chat em tempo real, onde poderá se comunicar com todas as pessoas que estiverem online.
 
+Os hooks utilizados foram:
+- useState
+- useEffect
+- useReducer
+- useContext
+- useRef
 
 
 <a id="ancora2"></a>
