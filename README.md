@@ -1,5 +1,5 @@
 # AgraTalk! 
-	<a name="ancora"></a>
+	
  [Sobre](#ancora1) | [Tecnologias](#ancora2) | [Site](#ancora3)
 
 ![Computador com capa da rede social](https://github.com/agraluca/agratalk-frontend/blob/master/pc_agratalk.png)
