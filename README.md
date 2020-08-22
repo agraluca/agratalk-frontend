@@ -6,7 +6,7 @@
 
 
 <a id="ancora1"></a>
-## Sobre
+## :question: Sobre
 A rede social Agratalk! foi criada com o objetivo de aprender os usos dos React Hooks, ou seja, foi feita para base de estudos!
 O Projeto tem algumas funcionalidades interessantes, irei citar algumas:
 
@@ -19,14 +19,14 @@ O Projeto tem algumas funcionalidades interessantes, irei citar algumas:
 
 
 <a id="ancora2"></a>
-## Tecnologias
+## :rocket: Tecnologias
 Nesse projeto foi utilizado apenas:
 - React.JS
 - Node.JS
 - Bootstrap e CSS
 
 <a id="ancora3"></a>
-## Site
+## :computer: Site
 Como o propósito do site foi por questões de estudo, hospedei o site no Netlify de forma gratuita, segue o Link:
 <a href="https://zen-meitner-08ea1e.netlify.app/" target="_blank" rel="noopener noreferrer"> AgraTalk! </a>
 
